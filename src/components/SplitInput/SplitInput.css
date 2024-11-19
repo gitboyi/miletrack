@@ -1,0 +1,11 @@
+.split-container{
+  display: flex;
+  .txt-field{
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+  }
+  .drpd{
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+  }
+}

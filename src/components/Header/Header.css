@@ -1,0 +1,10 @@
+.header-container{
+  background-color: #31473A;
+  padding: 20px 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  img{
+    width: 200px;
+  }
+}
